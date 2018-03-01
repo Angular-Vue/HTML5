@@ -32,7 +32,29 @@
             * 3：test；
             * 4：test；
             * 5：test；
-            * 6：test。          
+            * 6：test。
+
+### `Angular(1.x.x版本)`
+* AngularJS 是一个 JavaScript 框架。
+    * 它可通过 标签添加到 HTML 页面。
+    * AngularJS 通过 指令 扩展了 HTML，且通过 表达式 绑定数据到 HTML。
+    * 示例文件详见Angular文件夹，主要内容如下
+        * 1：cordova创建安卓项目；
+        * 2：与安卓交互，下载依赖；
+        * 3：下载android-studio，下载安卓sdk；
+        * 4：配置安卓环境变量(adb)；
+        * 5：jdk安装，配置环境变量；
+        * 6：打包（安卓证书设置）； 
+
+### `JQuery`
+* jQuery是一个快速、简洁的JavaScript框架，是继Prototype之后又一个优秀的JavaScript代码库（或JavaScript框架）。
+    * jQuery设计的宗旨是“write Less，Do More”，即倡导写更少的代码，做更多的事情。
+    * 它封装JavaScript常用的功能代码，提供一种简便的JavaScript设计模式，优化HTML文档操作、事件处理、动画设计和Ajax交互。
+    * 示例文件详见JQuery文件夹，主要内容如下
+        * 1：基础语法；
+        * 2：动画效果；
+        * 3：整体框架；
+        * 4：深入学习。                 
         
 ### `Cordova`
 * 贡献给Apache后的开源项目，是从PhoneGap中抽出的核心代码，是驱动PhoneGap的核心引擎。  

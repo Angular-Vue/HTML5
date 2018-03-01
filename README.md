@@ -9,7 +9,7 @@
 ## 软件和框架相关介绍详见 Software list 和 Frame，目录如下： 
 |   名称     |   介绍  |
 |--------------------|--------------------------------------|
-|   框架 / 详见 Frame                                        |
+|   框架 / 详见 Frame List                                       |
 | Vue       | 一套用于构建用户界面的渐进式框架                          |
 | Angular 			|		谷歌开源的优秀mvc框架		|
 | jQuery 			|		jQuery 是一个 JavaScript 库，极大地简化了 JavaScript 编程。		|
