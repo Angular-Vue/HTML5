@@ -1,13 +1,8 @@
 ## 小技巧：
 ##### 1：谷歌浏览器调试移动端web页面： 地址栏输入  chrome://inspect
 ##### 2：谷歌浏览器Console控制台可以直接使用jquery选择节点方法选定节点
-##### 3：Bootstrap可视化在线编辑网址：http://www.bootcss.com/p/layoutit/
-
-## JavaScript库，UI库
-* jQuery ( 详见JQuery文件夹 )
-    * jQuery 是一个 JavaScript 库，极大地简化了 JavaScript 编程。
-* Bootstrap
-    * Bootstrap 是基于 HTML、CSS、JAVASCRIPT 的框架，它简洁灵活，使得 Web 开发更加快捷。
+##### 3：Bootstrap 是基于 HTML、CSS、JAVASCRIPT 的框架，它简洁灵活，使得 Web 开发更加快捷。
+##### 4：Bootstrap可视化在线编辑网址：http://www.bootcss.com/p/layoutit/
     
 ## JavaScript代码示例详见 JavaScript List。
  
@@ -16,6 +11,8 @@
 |--------------------|--------------------------------------|
 |   框架 / 详见 Frame                                        |
 | Vue       | 一套用于构建用户界面的渐进式框架                          |
+| Angular 			|		谷歌开源的优秀mvc框架		|
+| jQuery 			|		jQuery 是一个 JavaScript 库，极大地简化了 JavaScript 编程。		|
 | Cordova       | 贡献给Apache后的开源项目，是从PhoneGap中抽出的核心代码，是驱动PhoneGap的核心引擎               |
 | Ionic             | 一个强大的 HTML5 应用程序开发框架(HTML5 Hybrid Mobile App Framework )     | 
 |   软件 / 详见 Software list                                          |
