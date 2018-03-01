@@ -4,7 +4,7 @@
 ##### 3：Bootstrap可视化在线编辑网址：http://www.bootcss.com/p/layoutit/
 
 ## JavaScript库，UI库
-* jQuery(详见JQuery)
+* jQuery ( 详见JQuery文件夹 )
     * jQuery 是一个 JavaScript 库，极大地简化了 JavaScript 编程。
 * Bootstrap
     * Bootstrap 是基于 HTML、CSS、JAVASCRIPT 的框架，它简洁灵活，使得 Web 开发更加快捷。
